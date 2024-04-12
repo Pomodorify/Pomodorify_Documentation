@@ -1,7 +1,7 @@
 # Pomodorify Documentation
 **About:**
 
-This repository serves as the central hub for all documentation, created in Confluence, related to the Pomodorify project. Here, you'll find comprehensive guides, manuals, and resources to help you understand and utilize Pomodorify to its fullest potential.
+This repository serves as the central hub for all documentation (created in Confluence), related to the Pomodorify project. Here, you'll find comprehensive guides, manuals, and resources to help you understand and utilize Pomodorify to its fullest potential.
 
 **Contents Overview:**
 
