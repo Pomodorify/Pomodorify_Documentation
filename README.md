@@ -17,3 +17,7 @@ This repository serves as the central hub for all documentation (created in Conf
 - **Class Diagram:** Visual representation of the Pomodorify application's classes and relationships, created in Enterprise Architect.
 
 - **Sequence Diagram:** Sequential illustrations of interactions between objects in specific scenarios, created in Enterprise Architect.
+
+**Trello Board:**
+
+Where tasks are stored and moved in real time during the Sprints, available under this link: https://trello.com/b/WpsP5D2U/pomodorify
